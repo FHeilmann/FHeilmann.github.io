@@ -134,6 +134,51 @@
               "version": "1.2.0"
             }
           ]
+        },
+        {
+          "name": "Taco Raven Boards",
+          "architecture": "samd",
+          "version": "0.1.2",
+          "category": "VoronDesign",
+          "url": "https://github.com/FHeilmann/ArduinoCore-samd/archive/v0.1.2.tar.gz",
+          "archiveFileName": "ArduinoCore-samd-0.1.2.tar.gz",
+          "checksum": "SHA-256:6b7c363537d491da5a9598d4a2aa9a245ea54e4066bd28ee729d6c516a97a34b",
+          "size": "3331057",
+          "help": {
+            "online": "https://reddit.com/r/voroncorexy"
+          },
+          "boards": [
+            {
+              "name": "VoronDesign Taco Raven revA"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
         }
       ]
     }
