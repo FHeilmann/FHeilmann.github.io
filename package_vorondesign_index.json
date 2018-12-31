@@ -93,12 +93,12 @@
         {
           "name": "Taco Raven Boards",
           "architecture": "samd",
-          "version": "0.1.3",
+          "version": "0.1.4",
           "category": "VoronDesign",
-          "url": "https://github.com/FHeilmann/ArduinoCore-samd/archive/v0.1.3.tar.gz",
-          "archiveFileName": "ArduinoCore-samd-0.1.3.tar.gz",
-          "checksum": "SHA-256:c3f8d32c7ca1a6fb0e56b713f401e1ffc7417799986e0c43a013ba396610db9e",
-          "size": "3331061",
+          "url": "https://github.com/FHeilmann/ArduinoCore-samd/archive/v0.1.4.tar.gz",
+          "archiveFileName": "ArduinoCore-samd-0.1.4.tar.gz",
+          "checksum": "SHA-256:4fc5ea120da6c3259901fe087dd0122d728c8cb8abee27ad49c6b36117dc1284",
+          "size": "3331058",
           "help": {
             "online": "https://reddit.com/r/voroncorexy"
           },
